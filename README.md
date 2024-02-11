@@ -1,3 +1,5 @@
+![Flutter Icon](./web/icons/Icon-192.png)
+
 # Flutter E-Commerce App with Hive
 
 This is a Flutter project for building a simple e-commerce application. The project integrates Hive for local data storage.
